@@ -8,3 +8,4 @@ New restaurant sites take large investments of time and capital to get up and ru
 
 # The Metric: Root Mean Squared Error (RMSE)
 ![images](https://github.com/UKVeteran/Restaurant-Revenue-Prediction/assets/39216339/0c3d3cb6-fced-467a-af71-e0f7b919a15f)
+![rmse-example-regression](https://github.com/UKVeteran/Restaurant-Revenue-Prediction/assets/39216339/46bde647-1b89-48be-b61a-47df0b3885a8)
