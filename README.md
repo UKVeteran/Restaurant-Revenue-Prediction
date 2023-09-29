@@ -7,7 +7,4 @@ Right now, deciding when and where to open new restaurants is largely a subjecti
 New restaurant sites take large investments of time and capital to get up and running. When the wrong location for a restaurant brand is chosen, the site closes within 18 months and operating losses are incurred. 
 
 # The Metric: Root Mean Squared Error (RMSE)
-![download](https://github.com/UKVeteran/Restaurant-Revenue-Prediction/assets/39216339/a129a824-2f88-4b8d-bb22-557c3c6eb58f)
-
-
-where y hat is the predicted value and y is the original value.
+![images](https://github.com/UKVeteran/Restaurant-Revenue-Prediction/assets/39216339/0c3d3cb6-fced-467a-af71-e0f7b919a15f)
