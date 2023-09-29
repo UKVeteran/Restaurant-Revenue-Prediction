@@ -1,7 +1,7 @@
 # Restaurant-Revenue-Prediction
 
 
-Link To The Kaggle Dataset: <a href="https://www.kaggle.com/competitions/restaurant-revenue-prediction/data">MVP Dataset</a>
+Link To The Kaggle Dataset: <a href="https://www.kaggle.com/competitions/restaurant-revenue-prediction/data">Restaurant Revenue Prediction Dataset</a>
 
 
 With over 1,200 quick service restaurants across the globe, TFI is the company behind some of the world's most well-known brands: Burger King, Sbarro, Popeyes, Usta Donerci, and Arby’s. They employ over 20,000 people in Europe and Asia and make significant daily investments in developing new restaurant sites.
